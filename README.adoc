@@ -25,3 +25,5 @@ The full list of contributors for se-edu can be found https://se-edu.github.io/T
 if you noticed bugs or have suggestions on how to improve.
 * *Contributing*: We welcome pull requests. Refer to our website https://se-edu.github.io/#contributing[here].
 * If you would like to contact us, refer to https://se-edu.github.io/#contact[our website].
+
+I've added a new line.
